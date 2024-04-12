@@ -12,3 +12,7 @@
                                                                                                         
                                                                                                         
 ```
+
+Download latest beta <a href="https://github.com/kryyyaaaa/iKiller-WiFi/releases/tag/1.0.1">here</a>
+
+based on <a href="https://github.com/doronz88/pymobiledevice3">pymobiledevice3</a>
